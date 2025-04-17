@@ -50,7 +50,7 @@ Stay tuned — we'll be sharing some of our internal tools, libraries, and open-
 
 We’re always open to collaborations, partnerships, or just having a chat.
 
-- 💌 Email: hello@iuxit.com.au  
+- 💌 Email: support@iuxit.com.au  
 - 🖥 Website: [https://iuxit.com.au](https://iuxit.com.au)  
 - 📍 Location: Leppington, NSW 2179, Australia
 
